@@ -77,7 +77,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'sensor_db',       # Nome do banco de dados
-        'USER': 'juliano',     # Usuário do PostgreSQL
+        'USER': 'postgres',     # Usuário do PostgreSQL
         'PASSWORD': 'root',   # Senha do PostgreSQL
         'HOST': 'localhost',       # Host, use "localhost" para local
         'PORT': '5432',            # Porta padrão do PostgreSQL
