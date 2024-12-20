@@ -16,9 +16,9 @@ Este projeto tem como objetivo monitorar o nível de água utilizando um sensor 
 
 ---
 
-## Estrutura do Projeto
+## Estrutura da Aplicação WEB
 ```plaintext
-sensor_nivel_agua/
+HidroMonitor/
 ├── manage.py
 ├── sensorweb/
     ├── __init__.py
